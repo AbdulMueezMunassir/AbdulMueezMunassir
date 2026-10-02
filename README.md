@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/abdul-mueez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-mueez" height="30" width="40" /></a>
 <a href="https://github.com/AbdulMueezMunassir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AbdulMueezMunassir" height="30" width="40" /></a>
-<a href="mailto:abmueez593@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="abmueez593" height="30" width="40" /></a>
+<a href="mailto:abmueez593@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="abmueez593" height="30" /></a>
 <a href="https://portfolio-orcin-psi-4rww4qoan.vercel.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="portfolio" height="30" width="40" /></a>
 </p>
 
